@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:22.754120
+#+DATE: 2015-08-30 20:11:24.573220
 #+TITLE: 佛說長者子制經
 #+PROPERTY: CBETA_ID T14n0526
 #+PROPERTY: ID KR6i0156
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 526
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0156_T_000-0800c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0156_T_001-0800c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.526[Nos.527,528]¶
-
- 佛說長者子制經¶
+No. 526 [Nos. 527, 528]¶
+佛說長者子制經¶
 ¶
 後漢安息三藏安世高譯¶
 
@@ -160,7 +159,7 @@ No.526[Nos.527,528]¶
 皆為大動，夜明如日出，人民皆壽七千億歲。¶
 汝身當長二百丈，當有萬一千城，城皆四百¶
 八十里，城皆板著之，皆刻鏤金銀、琉璃、水精、¶
-珊瑚、車𤦲、馬瑙七寶。
+珊瑚、車[(王*巨)/木]、馬瑙七寶。
 
 「汝作佛時，當再會說經，¶
 一會時有六千億沙門皆得阿羅漢；第二會¶
