@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:11:22.754120
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:44
 #+TITLE: 佛說長者子制經
 #+PROPERTY: CBETA_ID T14n0526
 #+PROPERTY: ID KR6i0156
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 526
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0156_T_000-0800c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0156_T_001-0800c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.526[Nos.527,528]¶
-
- 佛說長者子制經¶
+No. 526 [Nos. 527, 528]¶
+佛說長者子制經¶
 ¶
 後漢安息三藏安世高譯¶
 
